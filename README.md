@@ -1,2 +1,3 @@
 # datasciencecoursera
 Created for the JHU class
+First time ever using programming of any sort! Let's get started... 
